@@ -1,2 +1,2 @@
-# IoT-System
-a Internet of things system
+# a Farming System
+a Internet of farming system
